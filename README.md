@@ -30,7 +30,7 @@ ORM : Spring Data JPA (JAVA(SQL))
 <details>
 
 <summary>관리자계정</summary>
-- 아이디 : admin@naver.com
+- 아이디 : admin@naver.com  <br>
 - 비밀번호 : 1234
 
 
