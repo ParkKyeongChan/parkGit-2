@@ -1,40 +1,28 @@
-# codingStory
+## 프로젝트 소개
+그룹웨어 관리자 페이지
+## 프로젝트 기간
+2024.05.10 ~ 2024.06.04
 
-<details>
-<summary>프로젝트 기본설정</summary>
+## 팀원 소개
+박경찬: 회원, OAuth2, Security  <br/>
+이** : 게시판, 카카오API, 영화API, layout(index)css  <br/>
+심** : 결재관리, 챗봇 <br/>
+왕** : 출퇴근관리, 네이버API, 급여관리 <br/>
+조** : 부서관리, FullCalendar
 
+## 기술소개
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
-프로젝트명 : codingStory
-
-프로그래밍 언어 : JAVA
-
-프레임워크 : Springboot 2.7.11
-
-라이브러리 DI : Spring WEB(MVC), Thymeleaf, Spring Data JPA, Lombok, SpringSecurity5 
-               , websocket, validation, OAuth2, security  
-
-데이터베이스 : MySql8
-
-ORM : Spring Data JPA (JAVA(SQL))
-
-개발툴 : IntelliJ
-
-템플릿 엔진 : Thymeleaf (HTML + Data)
-
-빌드 : Gradle
-
-설정 : application.yml, application-oauth2.yml
-
-</details>
-
-<details>
-
-<summary>관리자계정</summary>
-- 아이디 : admin@naver.com  <br>
-- 비밀번호 : 1234
-
-
-
-</details>
-
-
+## 개발환경
+- **Version** : Java 11
+- **IDE** : IntelliJ
+- **Framework** : SpringBoot 2.7.11
+- **Database**  : MySql
+- **ORM**      : JPA
